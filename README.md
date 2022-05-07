@@ -3,7 +3,7 @@
 </div>
 
 ## 🛠 Technologies utilisées : 
-Dans ce projet, nous utiliserons les technologies xml, xml schema, et dtd plus XPATH, XSLT, XSLT-FO, XQuery pour réaliser un système de gestion des données pour l'école nationale des sciences appliquées de Tanger.
+Dans ce projet, on a utilisé les technologies xml, xml schema, et dtd plus XPATH, XSLT, XSLT-FO, XQuery pour réaliser un système de gestion des données pour l'école nationale des sciences appliquées de Tanger.
 
 Après que l'administrateur insère les données dans un tableau excel, nous extrayons les données à l'aide d'un programme [JAVA](https://github.com/YounesseELH/Gestion-scolarite/tree/main/Convertir%20EXCEL%20A%20XML%20AVEC%20JAVA/Programme%20JAVA%20conversion%20EXCEL-XML)  que nous développerons, à partir de ces données (format xml) nous gérerons des listes des étudiants avec ses notes pour chaque module, carte d'étudiant, emploi du temps, attestation scolaire...
 
