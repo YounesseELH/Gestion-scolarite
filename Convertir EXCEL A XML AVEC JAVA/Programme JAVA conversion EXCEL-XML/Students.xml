@@ -1,0 +1,57 @@
+<Students>
+ 
+  <Page 1>
+ 
+    <Student Number="1">
+      <CNE>17007212</CNE>
+      <DateofBirth>01/09/99</DateofBirth>
+      <FirstName>Mouad</FirstName>
+      <LastName>El Mamoune</LastName>
+      <ClasseName>GINF2</ClasseName>
+      <Phone>641501050</Phone>
+      <Email>mouad@gmail.com</Email>
+    </Student>
+ 
+    <Student Number="2">
+      <CNE>17007213</CNE>
+      <DateofBirth>05/06/99</DateofBirth>
+      <FirstName>Hamza</FirstName>
+      <LastName>Chaoui</LastName>
+      <ClasseName>GINF2</ClasseName>
+      <Phone>641501051</Phone>
+      <Email>hamza@gmail.com</Email>
+    </Student>
+ 
+    <Student Number="3">
+      <CNE>17007214</CNE>
+      <DateofBirth>02/12/98</DateofBirth>
+      <FirstName>Nabil</FirstName>
+      <LastName>Dahdah</LastName>
+      <ClasseName>AP1</ClasseName>
+      <Phone>641501052</Phone>
+      <Email>nabil@gmail.com</Email>
+    </Student>
+ 
+    <Student Number="4">
+      <CNE>17007215</CNE>
+      <DateofBirth>13/06/00</DateofBirth>
+      <FirstName>Mohamed</FirstName>
+      <LastName>Madmadi</LastName>
+      <ClasseName>GINF1</ClasseName>
+      <Phone>641501053</Phone>
+      <Email>mohamed@gmail.com</Email>
+    </Student>
+ 
+    <Student Number="5">
+      <CNE>17007216</CNE>
+      <DateofBirth>02/06/99</DateofBirth>
+      <FirstName>Saad</FirstName>
+      <LastName>El Hassani</LastName>
+      <ClasseName>GINF1</ClasseName>
+      <Phone>641501054</Phone>
+      <Email>saad@gmail.com</Email>
+    </Student>
+ 
+  </Page 1>
+ 
+</Students>

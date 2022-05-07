@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emploi_du_temps xmlns="http://emploidutemps.org">
+    <semaine num="4">
+        <lundi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>LAZAAR</professeur>
+                <matiere>CRYPTOGRAPHIE</matiere>
+                <type>CM</type>
+                <salle>SALLE A8</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h30">
+                <professeur>LAZAAR</professeur>
+                <matiere>CRYPTOGRAPHIE</matiere>
+                <type>CM</type>
+                <salle>SALLE A8</salle>
+            </seance>
+            <seance num="3" horaire="14h00 - 15h30">
+                <professeur>BADIR</professeur>
+                <matiere>BASE DE DONNEE NO SQL</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="4" horaire="16h00 - 17h30">
+                <professeur>BADIR</professeur>
+                <matiere>BASE DE DONNEE NO SQL</matiere>
+                <type>TP</type>
+                <salle>SALLE B19</salle>
+            </seance>
+        </lundi>
+        <mardi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>LAZAAR</professeur>
+                <matiere>CRYPTOGRAPHIE</matiere>
+                <type>TP</type>
+                <salle>SALLE B20</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h30">
+                <professeur>GHAILANI</professeur>
+                <matiere>DOT NET C SHARP</matiere>
+                <type>CM</type>
+                <salle>SALLE B20</salle>
+            </seance>
+            <seance num="3" horaire="14h00 - 15h30">
+                <professeur>MAOUEN</professeur>
+                <matiere>TECHNIQUE ALGORITHMIQUE AVANCEE</matiere>
+                <type>CM</type>
+                <salle>SALLE B20</salle>
+            </seance>
+            <seance num="4" horaire="16h00 - 17h30">
+                <professeur>MAOUEN</professeur>
+                <matiere>TECHNIQUE ALGORITHMIQUE AVANCEE</matiere>
+                <type>TD</type>
+                <salle>SALLE B20</salle>
+            </seance>
+        </mardi>
+        <mercredi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>MERGOUM</professeur>
+                <matiere>COMPTABILITE 2</matiere>
+                <type>CM</type>
+                <salle>SALLE B2</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h30">
+                <professeur>MERGOUM</professeur>
+                <matiere>COMPTABILITE 2</matiere>
+                <type>CM</type>
+                <salle>SALLE B2</salle>
+            </seance>
+			 <seance num="3" horaire="14h00 - 15h30">
+                <professeur>RAHALI AZOUZI</professeur>
+                <matiere>MANAGEMENT DE PROJET</matiere>
+                <type>TP</type>
+                <salle>SALLE B21</salle>
+            </seance>
+			<seance num="4" horaire="16h00 - 17h30">
+                <professeur>RAHALI AZOUZI</professeur>
+                <matiere>MANAGEMENT DE PROJET</matiere>
+                <type>TP</type>
+                <salle>SALLE B21</salle>
+            </seance>
+        </mercredi>
+        <jeudi>
+            <seance num="1" horaire="09h00 - 10h45">
+                <professeur>LACHKAR</professeur>
+                <matiere>TRAITEMENT D IMAGE</matiere>
+                <type>TP</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h45">
+                <professeur>LACHKAR</professeur>
+                <matiere>TRAITEMENT D IMAGE</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="3" horaire="14h00 - 15h30">
+                <professeur>GHAILANI</professeur>
+                <matiere>DOT NET C SHARP</matiere>
+                <type>TP</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="4" horaire="16h00 - 17h30">
+                <professeur>GHAILANI</professeur>
+                <matiere>DOT NET C SHARP</matiere>
+                <type>TP</type>
+                <salle>SALLE B19</salle>
+            </seance>
+        </jeudi>
+        <vendredi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>BADIR</professeur>
+                <matiere>GESTION DES DONNEES COMPLEXES</matiere>
+                <type>CM</type>
+                <salle>SALLE B22</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h45">
+                <professeur>BADIR</professeur>
+                <matiere>GESTION DES DONNEES COMPLEXES</matiere>
+                <type>TP</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="4" horaire="16h30 - 18h00">
+                <professeur>MAOUEN</professeur>
+                <matiere>TECHNIQUE ALGORITHMIQUE AVANCEE</matiere>
+                <type>TD</type>
+                <salle>SALLE B22</salle>
+            </seance>
+        </vendredi>
+    </semaine>
+    
+</emploi_du_temps>

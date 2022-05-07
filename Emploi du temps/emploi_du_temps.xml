@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emploi_du_temps xmlns="http://emploidutemps.org">
+    <semaine num="4">
+        <lundi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>BADIR</professeur>
+                <matiere>CYCLE DE VIE LOGICIEL ET METHODE AGILE</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h30">
+                <professeur>BADIR</professeur>
+                <matiere>CYCLE DE VIE LOGICIEL ET METHODE AGILE</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="3" horaire="14h00 - 15h30">
+                <professeur>EL ALAMI</professeur>
+                <matiere>MODELISATION ORIENTEE OBJET UML</matiere>
+                <type>TD</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="4" horaire="16h00 - 17h30">
+                <professeur>EL ALAMI</professeur>
+                <matiere>MODELISATION ORIENTEE OBJET UML</matiere>
+                <type>TD</type>
+                <salle>SALLE B19</salle>
+            </seance>
+        </lundi>
+        <mardi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>FISSOUNE</professeur>
+                <matiere>GESTION DES DONNEES DISTRIBUEES</matiere>
+                <type>CM</type>
+                <salle>SALLE B20</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h30">
+                <professeur>FISSOUNE</professeur>
+                <matiere>GESTION DES DONNEES DISTRIBUEES</matiere>
+                <type>TP</type>
+                <salle>SALLE B20</salle>
+            </seance>
+            <seance num="3" horaire="14h00 - 15h30">
+                <professeur>AMECHNOUE</professeur>
+                <matiere>PROGRAMMATION SYSTEME</matiere>
+                <type>TP</type>
+                <salle>SALLE B20</salle>
+            </seance>
+            <seance num="4" horaire="16h00 - 17h30">
+                <professeur>AMECHNOUE</professeur>
+                <matiere>PROGRAMMATION SYSTEME</matiere>
+                <type>TP</type>
+                <salle>SALLE B20</salle>
+            </seance>
+        </mardi>
+        <mercredi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>EL HADDAD</professeur>
+                <matiere>PROGRAMMATION ORIENTEE OBJET JAVA</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h30">
+                <professeur>EL HADDAD</professeur>
+                <matiere>PROGRAMMATION ORIENTEE OBJET JAVA</matiere>
+                <type>TP</type>
+                <salle>SALLE B19</salle>
+            </seance>
+			 <seance num="3" horaire="14h00 - 15h30">
+                <professeur>AMECHNOUE</professeur>
+                <matiere>PROGRAMMATION SYSTEME</matiere>
+                <type>CM</type>
+                <salle>SALLE B22</salle>
+            </seance>
+        </mercredi>
+        <jeudi>
+            <seance num="1" horaire="09h00 - 10h45">
+                <professeur>EL ALAMI</professeur>
+                <matiere>INTERFACE HOMME MACHINE</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="2" horaire="11h00 - 12h45">
+                <professeur>EL ALAMI</professeur>
+                <matiere>INTERFACE HOMME MACHINE</matiere>
+                <type>TD</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="3" horaire="14h00 - 15h30">
+                <professeur>ZAAMOUMI</professeur>
+                <matiere>TECHNIQUE DE COMMUNICATION</matiere>
+                <type>CM</type>
+                <salle>SALLE C1</salle>
+            </seance>
+            <seance num="4" horaire="16h00 - 17h30">
+                <professeur>ZAAMOUMI</professeur>
+                <matiere>TECHNIQUE DE COMMUNICATION</matiere>
+                <type>CM</type>
+                <salle>SALLE C1</salle>
+            </seance>
+        </jeudi>
+        <vendredi>
+            <seance num="1" horaire="09h00 - 10h30">
+                <professeur>LAAMARTI</professeur>
+                <matiere>ESPAGNOL</matiere>
+                <type>CM</type>
+                <salle>SALLE B22</salle>
+            </seance>
+            <seance num="3" horaire="14h30 - 16h00">
+                <professeur>RAHALI AZOUZI</professeur>
+                <matiere>ASSURANCE CONTROLE QUALITE</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+            <seance num="4" horaire="16h30 - 18h00">
+                <professeur>RAHALI AZOUZI</professeur>
+                <matiere>ASSURANCE CONTROLE QUALITE</matiere>
+                <type>CM</type>
+                <salle>SALLE B19</salle>
+            </seance>
+        </vendredi>
+    </semaine>
+    
+</emploi_du_temps>

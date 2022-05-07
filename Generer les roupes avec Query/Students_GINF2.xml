@@ -1,0 +1,487 @@
+<?xml version="1.0"?>					
+<?xml-stylesheet href="Students.xsl" type ="text/xsl"?>					
+<Students xmlns="http://etudiants_ginf2.org"					
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">					
+  					
+ 					
+    <Student Number="1">					
+      <CNE>18110511</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>bilal</FirstName>					
+      <LastName>el haouari</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>661933584</Phone>					
+      <Email>bilal_el haouari@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="2">					
+      <CNE>18110512</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>achraf</FirstName>					
+      <LastName>amgar</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+     <Phone>639935355</Phone>					
+      <Email>achraf_amgar@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="3">					
+      <CNE>18110513</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>redouan</FirstName>					
+      <LastName>draoui</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622301651</Phone>					
+      <Email>redouan_draoui@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="4">					
+      <CNE>18110514</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>said</FirstName>					
+      <LastName>el moumni</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637776815</Phone>					
+      <Email>said_el moumni@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="5">					
+      <CNE>18110515</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>malak</FirstName>					
+      <LastName>ismaili</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622900328</Phone>					
+      <Email>malak_ismaili@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="6">					
+      <CNE>18110516</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>imane</FirstName>					
+      <LastName>rayani</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622900328</Phone>					
+      <Email>imane_rayani@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="7">					
+      <CNE>18110517</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>mohamed</FirstName>					
+      <LastName>ouazani</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622898030</Phone>					
+      <Email>mohamed_ouazani@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="8">					
+      <CNE>18110518</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>khaoula</FirstName>					
+      <LastName>morabit</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>624652072</Phone>					
+      <Email>khaoula_morabit@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="9">					
+      <CNE>18110519</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>ismail</FirstName>					
+      <LastName>lmkadm</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>661454101</Phone>					
+      <Email>ismail_lmkadm@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="10">					
+      <CNE>18110520</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>youssef</FirstName>					
+      <LastName>raouf</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622208073</Phone>					
+      <Email>youssef_raouf@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="11">					
+      <CNE>18110521</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>soukaine</FirstName>					
+      <LastName>leaydoni</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>636612745</Phone>					
+      <Email>soukaine_leaydoni@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="12">					
+      <CNE>18110522</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>salma</FirstName>					
+      <LastName>bouchta</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622995382</Phone>					
+      <Email>salma_bouchta@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="13">					
+      <CNE>18110523</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>khalid</FirstName>					
+      <LastName>bouazza</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622472456</Phone>					
+      <Email>khalid_bouazza@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="14">					
+      <CNE>18110524</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>adam</FirstName>					
+      <LastName>redouan</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637875772</Phone>					
+      <Email>adam_redouan@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="15">					
+      <CNE>18110525</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>mouna</FirstName>					
+      <LastName>hajji</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637709161</Phone>					
+      <Email>mouna_hajji@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="16">					
+      <CNE>18110526</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>bachir</FirstName>					
+      <LastName>jirari</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622316333</Phone>					
+      <Email>bachir_jirari@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="17">					
+      <CNE>18110527</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>ali</FirstName>					
+      <LastName>el haouari</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>661933584</Phone>					
+      <Email>ali_el haouari@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="18">					
+      <CNE>18110528</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>khadiha</FirstName>					
+      <LastName>amgar</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>639935355</Phone>					
+      <Email>khadiha_amgar@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="19">					
+      <CNE>18110529</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>samir</FirstName>					
+      <LastName>draoui</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622301651</Phone>					
+      <Email>samir_draoui@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="20">					
+      <CNE>18110530</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>mohammed</FirstName>					
+      <LastName>el moumni</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637776815</Phone>					
+      <Email>mohammed_el moumni@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="21">					
+      <CNE>18110531</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>saad</FirstName>					
+      <LastName>ismaili</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622900328</Phone>					
+      <Email>saad_ismaili@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="22">					
+      <CNE>18110532</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>youssef</FirstName>					
+      <LastName>rayani</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622230466</Phone>					
+      <Email>youssef_rayani@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="23">					
+      <CNE>18110533</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>Neima</FirstName>					
+      <LastName>ouazani</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622898030</Phone>					
+      <Email>Neima_ouazani@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="24">					
+      <CNE>18110534</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>ayoub</FirstName>					
+      <LastName>morabit</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>624652072</Phone>					
+      <Email>ayoub_morabit@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="25">					
+      <CNE>18110535</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>younes</FirstName>					
+      <LastName>lmkadm</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>661933584</Phone>					
+      <Email>younes_lmkadm@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="26">					
+      <CNE>18110536</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>blek</FirstName>					
+      <LastName>raouf</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>639935355</Phone>					
+      <Email>blek_raouf@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="27">					
+      <CNE>18110537</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>jihane</FirstName>					
+      <LastName>leaydoni</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622301651</Phone>					
+      <Email>jihane_leaydoni@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="28">					
+      <CNE>18110538</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>ali</FirstName>					
+      <LastName>bouchta</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637776815</Phone>					
+      <Email>ali_bouchta@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="29">					
+      <CNE>18110539</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>saad</FirstName>					
+      <LastName>bouazza</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622900328</Phone>					
+      <Email>saad_bouazza@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="30">					
+      <CNE>18110540</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>bilal</FirstName>					
+      <LastName>redouan</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622900328</Phone>					
+      <Email>bilal_redouan@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="31">					
+      <CNE>18110541</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>safia</FirstName>					
+      <LastName>hajji</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622898030</Phone>					
+      <Email>safia_hajji@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="32">					
+      <CNE>18110542</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>soad</FirstName>					
+      <LastName>jirari</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>624652072</Phone>					
+      <Email>soad_jirari@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="33">					
+      <CNE>18110543</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>ali</FirstName>					
+      <LastName>el haouari</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>661454101</Phone>					
+      <Email>ali_el haouari@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="34">					
+      <CNE>18110544</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>moad</FirstName>					
+      <LastName>amgar</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622208073</Phone>					
+      <Email>moad_amgar@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="35">					
+      <CNE>18110545</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>samir</FirstName>					
+      <LastName>draoui</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>636612745</Phone>					
+      <Email>samir_draoui@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="36">					
+      <CNE>18110546</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>khalil</FirstName>					
+      <LastName>el moumni</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622995382</Phone>					
+      <Email>khalil_el moumni@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="37">					
+      <CNE>18110547</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>saad</FirstName>					
+      <LastName>ismaili</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622472456</Phone>					
+      <Email>saad_ismaili@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="38">					
+      <CNE>18110548</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>khaled</FirstName>					
+      <LastName>rayani</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637875772</Phone>					
+      <Email>khaled_rayani@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="39">					
+      <CNE>18110549</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>anas </FirstName>					
+      <LastName>ouazani</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637709161</Phone>					
+      <Email>anas _ouazani@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="40">					
+      <CNE>18110550</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>saida</FirstName>					
+      <LastName>morabit</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622316333</Phone>					
+      <Email>saida_morabit@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="41">					
+      <CNE>18110551</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>kamal</FirstName>					
+      <LastName>lmkadm</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>661933584</Phone>					
+      <Email>kamal_lmkadm@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="42">					
+      <CNE>18110552</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>rachid</FirstName>					
+      <LastName>raouf</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>639935355</Phone>					
+      <Email>rachid_raouf@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="43">					
+      <CNE>18110553</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>mohammed</FirstName>					
+      <LastName>leaydoni</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622301651</Phone>					
+      <Email>mohammed_leaydoni@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="44">					
+      <CNE>18110554</CNE>					
+      <DateofBirth>9/7/98</DateofBirth>					
+      <FirstName>khaled</FirstName>					
+      <LastName>bouchta</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>637776815</Phone>					
+      <Email>khaled_bouchta@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="45">					
+      <CNE>18110555</CNE>					
+      <DateofBirth>11/6/98</DateofBirth>					
+      <FirstName>omar</FirstName>					
+      <LastName>bouazza</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622900328</Phone>					
+      <Email>omar_bouazza@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="46">					
+      <CNE>18110556</CNE>					
+      <DateofBirth>2/1/99</DateofBirth>					
+      <FirstName>saad</FirstName>					
+      <LastName>redouan</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622230466</Phone>					
+      <Email>saad_redouan@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="47">					
+      <CNE>18110557</CNE>					
+      <DateofBirth>2/18/99</DateofBirth>					
+      <FirstName>salim</FirstName>					
+      <LastName>hajji</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>622898030</Phone>					
+      <Email>salim_hajji@gmail.com</Email>					
+    </Student>					
+ 					
+    <Student Number="48">					
+      <CNE>18110558</CNE>					
+      <DateofBirth>2/25/98</DateofBirth>					
+      <FirstName>ali</FirstName>					
+      <LastName>jirari</LastName>					
+      <ClasseNAme>GINF2</ClasseNAme>					
+      <Phone>624652072</Phone>					
+      <Email>ali_jirari@gmail.com</Email>					
+    </Student>					
+  					
+</Students>					

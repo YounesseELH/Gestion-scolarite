@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="Modules.xsl" type ="text/xsl"?>
+<Modules>
+ 
+    <Module Number="1">
+      <ModuleName>GINF31:Programmation Orientée Object &amp; XML</ModuleName>
+      <ElementName1>Programmation Orientée Object:Java</ElementName1>
+      <ElementName2>XML &amp; Application</ElementName2>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="2">
+      <ModuleName>GINF32:Qualité &amp; approche processus</ModuleName>
+      <ElementName1>Assurance controle qualite (ISO 9001)</ElementName1>
+      <ElementName2>Cycle de Vie Logiciel et Methodes agiles</ElementName2>
+      <ElementName3>Maitrise et optimisation des processus</ElementName3>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="3">
+      <ModuleName>GINF33:Modelisation orientee objet et IHM</ModuleName>
+      <ElementName1>Modelisation orientee objet UML</ElementName1>
+      <ElementName2>Interaction Homme Machine</ElementName2>
+      <Dept_Attachement>MI</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="4">
+      <ModuleName>GINF34:Base de donneé anvance 1</ModuleName>
+      <ElementName1>Optimisation et Qualite de Base de donnees</ElementName1>
+      <ElementName2>Administration et Securite des Bases de donnees</ElementName2>
+      <ElementName3>Base de donnees NoSQL</ElementName3>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="5">
+      <ModuleName>GINF35:Administration et programation système</ModuleName>
+      <ElementName1>Administration systemes</ElementName1>
+      <ElementName2>Programmation systemes</ElementName2>
+      <Dept_Attachement>MI</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="6">
+      <ModuleName>GINF36:Langues et communication 2</ModuleName>
+      <ElementName1>Espagnol 2, Allemand</ElementName1>
+      <ElementName2>Anglais professionnel</ElementName2>
+      <ElementName3>Technique de communication</ElementName3>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="7">
+      <ModuleName>GINF41:Technologies distribuées</ModuleName>
+      <ElementName1>Introduction a J2EE</ElementName1>
+      <ElementName2>Programmation en C#</ElementName2>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="8">
+      <ModuleName>GINF42:Base de donneé anvance 2 &amp; cloud</ModuleName>
+      <ElementName1>Gestion des donnees complexes</ElementName1>
+      <ElementName2>Gestion des donnees distribuees</ElementName2>
+      <ElementName3>Cloud Computing &amp; Infogerance</ElementName3>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="9">
+      <ModuleName>GINF43: Traitement de l'image</ModuleName>
+      <ElementName1>Traitement de l'image</ElementName1>
+      <ElementName2>Vision numerique</ElementName2>
+      <ElementName3>Processus stochastique</ElementName3>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="10">
+      <ModuleName>GINF44:Programmation déclarative et TAV</ModuleName>
+      <ElementName1>Programmation declarative</ElementName1>
+      <ElementName2>Technique algorithmique avancee</ElementName2>
+      <Dept_Attachement>MI</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="11">
+      <ModuleName>GINF45:Securité &amp; cryptographie</ModuleName>
+      <ElementName1>Securite des systemes</ElementName1>
+      <ElementName2>Cryptographie</ElementName2>
+      <Dept_Attachement>MI</Dept_Attachement>
+    </Module>
+ 
+    <Module Number="12">
+      <ModuleName>GINF46:Management de l'entreprise</ModuleName>
+      <ElementName1>Economie 2 &amp; comptabilite 2</ElementName1>
+      <ElementName2>Projet collectif &amp; stage</ElementName2>
+      <ElementName3>Management de projet</ElementName3>
+      <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+ 
+</Modules>

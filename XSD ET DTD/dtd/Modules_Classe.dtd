@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!ELEMENT Modules (Module)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Module (ModuleName,ElementName1,ElementName2,ElementName3*,Dept_Attachement)>
+
+<!ATTLIST Module
+    Number CDATA #REQUIRED
+    >
+
+
+<!ELEMENT ModuleName (#PCDATA)>
+
+<!ELEMENT ElementName1 (#PCDATA)>
+
+<!ELEMENT ElementName2 (#PCDATA)>
+
+<!ELEMENT ElementName3 (#PCDATA)>
+
+<!ELEMENT Dept_Attachement (#PCDATA)>

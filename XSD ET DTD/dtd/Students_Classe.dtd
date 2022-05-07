@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!ELEMENT Students (Student)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Student (CNE,DateofBirth,FirstName,LastName,Phone,Email)>
+<!ATTLIST Student
+    Number CDATA #REQUIRED
+    >
+
+
+<!ELEMENT CNE (#PCDATA)>
+
+<!ELEMENT DateofBirth (#PCDATA)>
+
+<!ELEMENT FirstName (#PCDATA)>
+
+<!ELEMENT LastName (#PCDATA)>
+
+<!ELEMENT Phone (#PCDATA)>
+
+<!ELEMENT Email (#PCDATA)>
