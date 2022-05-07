@@ -22,14 +22,14 @@ Après que l'administrateur insère les données dans un tableau excel, nous ext
   <strong><h4>4️⃣ <a href="https://github.com/YounesseELH/Gestion-scolarite/tree/main/Attestation%20reussite">Publication sous format PDF (utilisation de XPath et XSLT-FO et XQuery) : Attestation reussite</a></h4></strong>
 </div>
 <div>
-  <strong><h4>5️⃣ <a href="https://github.com/YounesseELH/Gestion-scolarite/tree/main/Les%20notes%20de%20classe">Publication sous format PDF (utilisation de XPath et XSLT-FO et XQuery) : Les notes de tous les matieres et de tous les étudiants</a></h4></strong>
+  <strong><h4>5️⃣ <a href="https://github.com/YounesseELH/Gestion-scolarite/tree/main/Les%20notes%20de%20classe">Publication sous format PDF : Les notes de tous les matieres et de tous les étudiants</a></h4></strong>
 </div>
 <div>
-  <strong><h4>6️⃣ <a href="https://github.com/YounesseELH/Gestion-scolarite/tree/main/Emploi%20du%20temps">Publication sous format PDF (utilisation de XPath et XSLT-FO et XQuery) : Emploi du temps</a></h4></strong>
+  <strong><h4>6️⃣ <a href="https://github.com/YounesseELH/Gestion-scolarite/tree/main/Emploi%20du%20temps">Publication sous format PDF : Emploi du temps</a></h4></strong>
 </div>
 
 <div>
-  <strong><h4>7️⃣ <a href="https://github.com/YounesseELH/Gestion-scolarite/tree/main/Releve%20de%20note%20pour%20etudiant">Publication sous format PDF (utilisation de XPath et XSLT-FO et XQuery) : Relevés de notes pour un étudiant</a></h4></strong>
+  <strong><h4>7️⃣ <a href="https://github.com/YounesseELH/Gestion-scolarite/tree/main/Releve%20de%20note%20pour%20etudiant">Publication sous format PDF : Relevés de notes pour un étudiant</a></h4></strong>
 </div>
 
 <div>
