@@ -39,5 +39,5 @@ Après que l'administrateur insère les données dans un tableau excel, nous ext
 </div>
 
 # 🔗 Cahier des charges :
-[Lien](https://drive.google.com/drive/folders/1OkdwVw6863msOMKMwfA93OmfSFDtYcQG?usp=sharing) 
+[Lien](https://drive.google.com/drive/folders/1OkdwVw6863msOMKMwfA93OmfSFDtYcQG) 
 
